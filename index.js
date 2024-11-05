@@ -62,9 +62,9 @@ function Resume() {
       </Section>
 
       <Section title="Contact">
-        <p>Email: arpita.basu@example.com</p>
-        <p>LinkedIn: linkedin.com/in/arpita-basu</p>
-        <p>GitHub: github.com/arpita-basu</p>
+        <p>Email: arpitabasu3072004@example.com</p>
+        <p>LinkedIn: www.linkedin.com/in/arpita-basu-953181251</p>
+        <p>GitHub:https://github.com/ArpitaBasu2004 </p>
       </Section>
     </div>
   );
